@@ -1,0 +1,5 @@
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1\bin\Debug\Task1.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1\bin\Debug\Task1.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1\obj\Debug\Task1.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1\obj\Debug\Task1.pdb

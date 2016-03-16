@@ -1,0 +1,9 @@
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\Task1Tests.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\Task1Tests.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\nunit.framework.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\Task1.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\Task1.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\nunit.framework.xml
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\obj\Debug\Task1Tests.csprojResolveAssemblyReference.cache
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\obj\Debug\Task1Tests.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\obj\Debug\Task1Tests.pdb

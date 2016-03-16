@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1038]D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\Task1Tests.dll</TopNode>
+  <SelectedNode>[0-1032]Task1Tests.PolynomialTests.Equals_CompareWithPolynomial_ReturnsExpectedResult(True,System.Double[])</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1038]D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\Task1Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1039]Task1Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]Task1Tests.PolynomialTests" Expanded="true" />
+    <Node UniqueName="[0-1001]Task1Tests.PolynomialTests.Constructor_CreateInstance_CreatedCorrectly" Expanded="true" />
+    <Node UniqueName="[0-1026]Task1Tests.PolynomialTests.Equals_CompareWithPolynomial_ReturnsExpectedResult" Expanded="true" />
+    <Node UniqueName="[0-1011]Task1Tests.PolynomialTests.Indexer_Get_ReturnsExistingElementOrZero" Expanded="true" />
+    <Node UniqueName="[0-1018]Task1Tests.PolynomialTests.Indexer_GetNegativePower_ArgumentOutOfRangeException" Expanded="true" />
+    <Node UniqueName="[0-1005]Task1Tests.PolynomialTests.PowerCount_Get_ReturnsExpectedCount" Expanded="true" />
+  </Nodes>
+</VisualState>

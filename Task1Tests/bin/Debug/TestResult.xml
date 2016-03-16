@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\Task1Tests.dll" total="32" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-03-17" time="01:40:35">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8662" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="CORTANASUCKS" user="Konstantin" user-domain="CortanaSucks" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Sources\EPAM.BSU.01.2016.Zikov.03\Task1Tests\bin\Debug\Task1Tests.dll" executed="True" result="Success" success="True" time="0.247" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Task1Tests" executed="True" result="Success" success="True" time="0.237" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="PolynomialTests" executed="True" result="Success" success="True" time="0.236" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="Constructor_CreateInstance_CreatedCorrectly" executed="True" result="Success" success="True" time="0.107" asserts="0">
+                <results>
+                  <test-case name="Task1Tests.PolynomialTests.Constructor_CreateInstance_CreatedCorrectly(50,-346,324.89d)" executed="True" result="Success" success="True" time="0.095" asserts="3" />
+                  <test-case name="Task1Tests.PolynomialTests.Constructor_CreateInstance_CreatedCorrectly(0,0,0)" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                  <test-case name="Task1Tests.PolynomialTests.Constructor_CreateInstance_CreatedCorrectly(-7004353,327682,943690236)" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                </results>
+              </test-suite>
+              <test-case name="Task1Tests.PolynomialTests.ElementOperation_DivideToMultiplersOfAnotherPolynomial_ReturnsExpectedPolynomial" executed="True" result="Success" success="True" time="0.002" asserts="3" />
+              <test-case name="Task1Tests.PolynomialTests.ElementOperation_MultiplyToMinuseOne_NegativePolynome" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-case name="Task1Tests.PolynomialTests.Equals_CompareWithObject_ReturnsExpectedResult" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-suite type="ParameterizedTest" name="Equals_CompareWithPolynomial_ReturnsExpectedResult" executed="True" result="Success" success="True" time="0.018" asserts="0">
+                <results>
+                  <test-case name="Task1Tests.PolynomialTests.Equals_CompareWithPolynomial_ReturnsExpectedResult(True,System.Double[])" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Equals_CompareWithPolynomial_ReturnsExpectedResult(True,System.Double[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Equals_CompareWithPolynomial_ReturnsExpectedResult(False,System.Double[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Equals_CompareWithPolynomial_ReturnsExpectedResult(False,System.Double[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Equals_CompareWithPolynomial_ReturnsExpectedResult(False,System.Double[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Equals_CompareWithPolynomial_ReturnsExpectedResult(True,System.Double[])" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="Indexer_Get_ReturnsExistingElementOrZero" executed="True" result="Success" success="True" time="0.017" asserts="0">
+                <results>
+                  <test-case name="Task1Tests.PolynomialTests.Indexer_Get_ReturnsExistingElementOrZero(0,715)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Indexer_Get_ReturnsExistingElementOrZero(1,403)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Indexer_Get_ReturnsExistingElementOrZero(2,200)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Indexer_Get_ReturnsExistingElementOrZero(3,0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Indexer_Get_ReturnsExistingElementOrZero(4,0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.Indexer_Get_ReturnsExistingElementOrZero(42,0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="Indexer_GetNegativePower_ArgumentOutOfRangeException" executed="True" result="Success" success="True" time="0.009" asserts="0">
+                <results>
+                  <test-case name="Task1Tests.PolynomialTests.Indexer_GetNegativePower_ArgumentOutOfRangeException(-1)" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                  <test-case name="Task1Tests.PolynomialTests.Indexer_GetNegativePower_ArgumentOutOfRangeException(-15)" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                </results>
+              </test-suite>
+              <test-case name="Task1Tests.PolynomialTests.Multiplers_Get_ContainsExpectedValues" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-case name="Task1Tests.PolynomialTests.operatorMinus_MinusSamePolynomials_ResultPolynomialHasZeroSize" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="Task1Tests.PolynomialTests.operatorMultiply_MultiplyPolynomials_ReturnsExpectedPolynomial" executed="True" result="Success" success="True" time="0.002" asserts="5" />
+              <test-case name="Task1Tests.PolynomialTests.operatorPlus_AddSomePolynomials_ReturnsExpectedPolynomial" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-suite type="ParameterizedTest" name="PowerCount_Get_ReturnsExpectedCount" executed="True" result="Success" success="True" time="0.011" asserts="0">
+                <results>
+                  <test-case name="Task1Tests.PolynomialTests.PowerCount_Get_ReturnsExpectedCount(System.Double[],3)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.PowerCount_Get_ReturnsExpectedCount(System.Double[],3)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.PowerCount_Get_ReturnsExpectedCount(System.Double[],2)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Task1Tests.PolynomialTests.PowerCount_Get_ReturnsExpectedCount(System.Double[],0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-case name="Task1Tests.PolynomialTests.ToString_FormattedCall_ReturnsExpectedString" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="Task1Tests.PolynomialTests.ToString_FormattedCallWithGermanCulture_ReturnsExpectedString" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Task1Tests.PolynomialTests.ToString_FormattedCallWithRussianCulture_ReturnsExpectedString" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Task1Tests.PolynomialTests.ToString_SimpleCall_ReturnsExpectedString" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
